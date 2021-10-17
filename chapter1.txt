@@ -1,1 +1,1 @@
-here is a buch of text taht we are going tosue for version control... yes there are some misspelled words wbut we will fix them later in versionoing. 
+Here is a bunch of text that we are going to use to learn version control... yes there are some misspelled words but we will fix them later in versioning. 
